@@ -1,0 +1,10 @@
+This is my solution to the second Pre Release Material problem (November session, Paper 23 2016)
+
+Some notes regarding my solution
+_______________________________________________________________________________________________________________
+
+1. I have stored the candidates names and voting results in arrays.
+
+2. The validation, to ensure that the numbmer of candidates is between 2 and 4 uses a while loop to repeat until the vlaues input are valid.
+
+3. I have tested this, but not as thoroughly as I would like, but it seems to work correctly.
