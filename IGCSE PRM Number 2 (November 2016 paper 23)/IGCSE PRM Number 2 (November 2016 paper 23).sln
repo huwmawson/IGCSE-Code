@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IGCSE PRM Number 2 (November 2016 paper 23)", "IGCSE PRM Number 2 (November 2016 paper 23)\IGCSE PRM Number 2 (November 2016 paper 23).vbproj", "{2468C633-682A-4C81-8B75-843CA9CEED2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2468C633-682A-4C81-8B75-843CA9CEED2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2468C633-682A-4C81-8B75-843CA9CEED2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2468C633-682A-4C81-8B75-843CA9CEED2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2468C633-682A-4C81-8B75-843CA9CEED2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B48145-B2A6-4289-AA9D-FDB85468FA9E}
+	EndGlobalSection
+EndGlobal
